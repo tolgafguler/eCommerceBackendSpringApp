@@ -1,4 +1,4 @@
-# Backend of an e-commerce site in the simplest context. I provide simple CRUD actions according to requirments new features can be built on it. 
+# Backend of an e-commerce site in the simplest context. I provide simple CRUD actions. According to requirments new features can be built on it. 
 # E Commerce Backend Spring App
 
 ## REST Endpoints
